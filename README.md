@@ -55,7 +55,7 @@ streamlit run app.py
 ##**Live App**
 https://kanak2349299-customer-churn-predictor-app-3zggyb.streamlit.app/
 
-##** 📸 Screenshots**
+## **📸 Screenshots**
 
 | Dashboard | Prediction Result |
 | --- | --- |
@@ -64,12 +64,6 @@ https://kanak2349299-customer-churn-predictor-app-3zggyb.streamlit.app/
 ## **🔮 Future Improvements**
 - Add SHAP explainability to show why customer will churn
 - Deploy on Streamlit Cloud / HuggingFace Spaces
-
-## **Clone the repository**
-```bash
-git clone https://github.com/kanak2349299/customer-churn-predictor.git
-cd customer-churn-predictor
-
 
 ## 📬 Connect with me
 Feel free to reach out for collaborations!
