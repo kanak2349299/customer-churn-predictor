@@ -49,13 +49,11 @@ The dataset contains customer information including:
 
 ## **🚀 How to Run**
 '''bash
-pipm install -r requirements.txt
+pip install -r requirements.txt
 streamlit run app.py
 
-## **Clone the repository**
-```bash
-git clone https://github.com/kanak2349299/customer-churn-predictor.git
-cd customer-churn-predictor
+##**Live App**
+https://kanak2349299-customer-churn-predictor-app-3zggyb.streamlit.app/
 
 ##** 📸 Screenshots**
 
@@ -67,8 +65,10 @@ cd customer-churn-predictor
 - Add SHAP explainability to show why customer will churn
 - Deploy on Streamlit Cloud / HuggingFace Spaces
 
-##**Live App**
-https://kanak2349299-customer-churn-predictor-app-3zggyb.streamlit.app/
+## **Clone the repository**
+```bash
+git clone https://github.com/kanak2349299/customer-churn-predictor.git
+cd customer-churn-predictor
 
 
 ## 📬 Connect with me
