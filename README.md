@@ -1,4 +1,4 @@
-#**📊 Customer Churn Prediction System**
+# **📊 Customer Churn Prediction System**
 
 A Machine Learning web application that predicts whether a customer is likely to churn or continue using a company's services. Built with Streamlit and Random Forest Classifier.
 
