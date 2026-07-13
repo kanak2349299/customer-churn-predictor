@@ -54,6 +54,12 @@ The dataset contains customer information including:
 git clone https://github.com/kanak2349299/customer-churn-predictor.git
 cd customer-churn-predictor
 
+## 📸 Screenshots
+
+| Dashboard | Prediction Result |
+| --- | --- |
+| ![Dashboard](screenshots/dashboard.png) | ![Prediction](screenshots/prediction.png) |
+
 ## 🔮 Future Improvements
 - Add SHAP explainability to show why customer will churn
 - Deploy on Streamlit Cloud / HuggingFace Spaces
