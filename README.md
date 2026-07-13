@@ -48,6 +48,9 @@ The dataset contains customer information including:
 - Account info: Contract, PaymentMethod, MonthlyCharges, TotalCharges, Tenure
 
 ## 🚀 How to Run
+'''bash
+pipm install -r requirements.txt
+streamlit run app.py
 
  **Clone the repository**
 ```bash
@@ -63,6 +66,9 @@ cd customer-churn-predictor
 ## 🔮 Future Improvements
 - Add SHAP explainability to show why customer will churn
 - Deploy on Streamlit Cloud / HuggingFace Spaces
+##Live App
+https://kanak2349299-customer-churn-predictor-app-3zggyb.streamlit.app/
+
 
 ## 📬 Connect with me
 Feel free to reach out for collaborations!
