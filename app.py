@@ -101,8 +101,8 @@ h1 {
 
 @st.cache_resource()
 def load_model():
-    rf_model = pickle.load(open('Customer Churn Prediction System.pkl', 'rb'))
-    scaler = pickle.load(open('Scaler (1).pkl', 'rb'))
+    rf_model = pickle.load(open('customer_churn_model.pkl', 'rb'))
+    scaler = pickle.load(open('Sscaler.pkl', 'rb'))
     return rf_model, scaler
 
 model, scaler = load_model()
