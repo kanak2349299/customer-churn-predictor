@@ -61,8 +61,6 @@ https://kanak2349299-customer-churn-predictor-app-3zggyb.streamlit.app/
 | --- | --- |
 | ![Dashboard](screenshots/dashboard.png) | ![Prediction](screenshots/prediction.png) |
 
-##App Link 
-https://kanak2349299-customer-churn-predictor-app-3zggyb.streamlit.app/
 
 ## **🔮 Future Improvements**
 - Add SHAP explainability to show why customer will churn
